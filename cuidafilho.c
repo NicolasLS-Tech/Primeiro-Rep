@@ -3,13 +3,13 @@
 int main() {
     char nome[50];
     
-    printf("Digite um nome: ");
+    printf(" ");
     scanf("%s", nome);
     
     if (strcmp(nome, "John") == 0) {
-        printf("Eu realmente não gosto do John.\n");
+        printf("\n");
     } else {
-        printf("Tudo bem, eu gosto de você!\n");
+        printf("Tudo bem, eu gn");
     }
     
     return 0;
