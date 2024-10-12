@@ -6,7 +6,7 @@ int main() {
     printf(" ");
     scanf("%s", nome);
     
-    if (strcmp(nome, "John") == 0) {
+    if (strcmp(nome, "John Viadão") == 0) {
         printf("\n");
     } else {
         printf("Tudo bem, eu gn");
