@@ -19,7 +19,7 @@ Please note that installation is required.
 
 # Installation/Use
 
-**Focus** has two platforms that will allow its operation. Firstly, it is necessary to have a personal computer or a browser (or a mobile browser with computer mode enabled). Access the **Focus** website using the provided link via your preferred web browser.
+**Focus** has two platforms that will allow its operation. Firstly, it is necessary to have a personal computer or a browser (or a mobile browser with computer mode enabled). Access the **Focus** website using this link via your preferred web browser.
 You can download our mobile app by clicking here.
 
 # Contact
