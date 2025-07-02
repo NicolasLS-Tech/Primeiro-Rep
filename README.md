@@ -1,26 +1,27 @@
 <p align="center">
-  <a href="https://github.com/NicolasLS-Tech/Primeiro-Rep" target="blank"><img src="https://github.com/NicolasLS-Tech/Primeiro-Rep/blob/main/FocusLogo.jpg" width="400" alt="Letris Logo" /></a>
+  <a href="https://github.com/NicolasLS-Tech/Primeiro-Rep" target="blank"><img src="https://github.com/NicolasLS-Tech/Primeiro-Rep/blob/main/FocusLogo.jpg" width="350" alt="Focus Logo" /></a>
 </p>
+
+<h4 align="center">Organization is the Focus</h4>
 
 
 # Description
 
-**Focus** is a public application made to publish, organize and make the task of making general activities not boring. It has a main purpose to join every people with common interests, being gym things, graduation grades, etc.
+**Focus** is a public application designed to facilitate the efficient publication, organization and execution of general activities. Its primary objective is to facilitate connections between individuals who share common interests, such as fitness, academic achievements, and other relevant topics.
 
 # Features
 
-* Possibility to create your own group for general purpose
-* Connect to other people with same interests of yours
-* Simple, minimalistic and complete
-* Attach files, make your litte task a great achievement
+* Possibility to **create your own group** for general purpose
+* **Connect** to other people with same interests of yours
+* **Simple, minimalistic and complete**
+* Attach **files**, make your litte task a great **achievement**
+Please note that installation is required.
 
-# Installation
+# Installation/Use
 
-**Focus** has two plataforms that will be possible to run it. First of all, Personal Computer/Browser (or Mobile Browser with computer mode on). Using web browser, **Focus** will be accessed with this link.
-Using Mobile, we have an app, that you can download just by clicking here.
-
-# License
+**Focus** has two platforms that will allow its operation. Firstly, it is necessary to have a personal computer or a browser (or a mobile browser with computer mode enabled). Access the **Focus** website using the provided link via your preferred web browser.
+You can download our mobile app by clicking here.
 
 # Contact
 
-*Every question about the system, bug report or everything, can be send to the following e-mail: focusteam@focus.com
+Should you have any queries regarding the system, or wish to report a bug, please direct them to the following email address: focusteam@focus.com.
