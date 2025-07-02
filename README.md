@@ -4,7 +4,6 @@
 
 <h4 align="center">Organization is the Focus</h4>
 
-
 # Description
 
 **Focus** is a public application designed to facilitate the efficient publication, organization and execution of general activities. Its primary objective is to facilitate connections between individuals who share common interests, such as fitness, academic achievements, and other relevant topics.
@@ -12,10 +11,12 @@
 # Features
 
 * Possibility to **create your own group** for general purpose
-* **Connect** to other people with same interests of yours
-* **Simple, minimalistic and complete**
-* Attach **files**, make your litte task a great **achievement**
-Please note that installation is required.
+
+* **Connect** to other people with the same interests as yours.
+
+* **Simple, minimalistic, and complete software**
+
+* Attach **files** and make your little task a great achievement.
 
 # Installation/Use
 
