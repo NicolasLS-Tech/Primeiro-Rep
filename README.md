@@ -40,6 +40,7 @@ Alternatively, using Docker Desktop, you can simply run ("play") the **[Postgres
 After that, using your preferred IDE (Integrated Development Environment), connect to the database/container created in the previous step. Use the port, user (the default is "postgres"), and the password you defined. For detailed guides, follow the links for **[Rider](https://www.jetbrains.com/help/rider/Connecting_to_a_database.html)** or **[Visual Studio](https://learn.microsoft.com/en-us/visualstudio/data-tools/add-new-connections?view=vs-2022)**.
 
 Only then can the tests be run on the application. By using the **"Swagger"** tool, which is launched automatically with the project, the user will be able to test the **API (Application Programming Interface)** and ensure that the **Focus** system backend is running correctly on their machine.
+***
 # Contact
 
 Should you have any queries regarding the system, or wish to report a bug, please direct them to the following email address: focusteam@focus.com.
